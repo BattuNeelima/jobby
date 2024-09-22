@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = neelima
+	email = neelimasri56@gmai.com
+[remote "origin"]
+	url = https://github.com/BattuNeelima/jobbyApp.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
